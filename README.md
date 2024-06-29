@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Milena Pessoa
 
-- 👩‍💻Estudante de Ciência da Computação
-- Aluna do programa One - Alura + Oracle Next Education 
+- 👩‍💻Estudante de Ciência da Computação na Anhanguera
+- Aluna do programa One - Especialização Front-End - Alura + Oracle Next Education 
 
 
 <div style="display: inline_block"><br>
