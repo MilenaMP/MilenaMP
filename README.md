@@ -44,6 +44,7 @@ Sou apaixonada por tecnologia e estou em constante aprendizado. Estudo desenvolv
 
 📌 Curso:  
 - **JavaScript do Básico ao Avançado** – Luiz Otávio Miranda [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+- **Formação Node.js Fundamentals** - Felipe Aguiar [DIO](https://www.dio.me/curso-node-js). 
 ---
 
 ### 🎨 Front-end
