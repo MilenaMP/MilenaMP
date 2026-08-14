@@ -1,62 +1,54 @@
 # 👋 Olá, eu sou a Milena!
 
 🎓 Estudante de **Ciência da Computação** na Anhanguera <br>
-💻 Desenvolvedora **Front-end**, com estudos em **Back-end**  
+💻 Desenvolvedora **Front-end** com conhecimentos em **Back-end**<br>
+🚀 Desenvolvimento Web com JavaScript, React e Node.js<br>
 🔐 Estudante de **Cibersegurança**  
 ⚙️ Explorando **Automação de Processos**
-
-Sou apaixonada por tecnologia e estou em constante aprendizado. Estudo desenvolvimento web, segurança da informação e automação, sempre buscando unir teoria e prática através de cursos, projetos e desafios.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Git" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite,nodejs,typescript,express,mysql,mongodb,npm,git,github)](https://skillicons.dev)
 
 ---
+
 ## 📚 Atualmente estudando
-- JavaScript avançado e boas práticas
-- Desenvolvimento Back-end com **Express**
-- Cibersegurança prática (TryHackMe)
-- Automação de processos com **n8n** 
----
-
-### 🧠 JavaScript & Back-end
-- JavaScript do **básico ao avançado**
-- Programação orientada a objetos
-- Assíncrono (Promises, async/await)
-- **Node.js**
-- **Express.js** (iniciando desenvolvimento de APIs)
-- Integração com banco de dados *(em aprendizado)*
-
-📌 Cursos:  
-- **JavaScript do Básico ao Avançado** – Luiz Otávio Miranda [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
-- **Formação Node.js Fundamentals** - Felipe Aguiar [DIO](https://www.dio.me/curso-node-js) 
----
-
-### 🎨 Front-end
-- Desenvolvimento de interfaces responsivas
-- Manipulação do DOM
-- Boas práticas de HTML, CSS e JavaScript
-- Experiência com projetos práticos
-
-📌 Formação realizada:
-- Cursos de **Front-end pela Alura** (2024)
+📌 JavaScript — aprofundamento da linguagem e boas práticas <br>
+📌 Node.js & Express — desenvolvimento de APIs e Back-end <br>
+📌 TypeScript — desenvolvimento de aplicações mais robustas <br>
 
 ---
+## 📚 Formação e Cursos
+### 🎓 Formação Acadêmica
+
+Ciência da Computação — Anhanguera
+
+### 💻 Desenvolvimento Web
+- JavaScript do Básico ao Avançado — Luiz Otávio Miranda | [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+- Formação Node.js Fundamentals — Felipe Aguiar | [DIO](https://www.dio.me/curso-node-js) 
+- Formação Front-end — Alura
+
+### 🚀 Bootcamps
+
+Sem Parar Corpay — Back-end do Zero a Prática | DIO
+
+✅ Bootcamp concluído
+
+Durante a formação, aprofundei conhecimentos relacionados ao desenvolvimento Back-end, incluindo:
+
+- JavaScript
+- Node.js
+- APIs REST
+- Express
+- TypeScript
+- Bancos de dados
+- Desenvolvimento de aplicações Back-end
+- Boas práticas de desenvolvimento
+
+---
+
 ### 🔐 Cibersegurança
 - Estudos práticos pela plataforma **TryHackMe**
 - Conceitos de:
@@ -76,18 +68,50 @@ Sou apaixonada por tecnologia e estou em constante aprendizado. Estudo desenvolv
 ---
 
 ## 🛠️ Projetos
-Aqui você encontrará:
-- Projetos front-end com HTML, CSS e JavaScript
-- Aplicações full stack em desenvolvimento
-- Estudos e desafios práticos
-- Experimentos com automação e APIs
 
-📂 *Os projetos estão organizados nos repositórios abaixo.*
-[Projeto Agenda](https://github.com/MilenaMP/Agenda)
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, incluindo:
+
+### 🌐 Projetos Front-end
+- Interfaces responsivas
+- Aplicações React
+- Projetos com HTML, CSS e JavaScript
+
+### ⚙️ Projetos Back-end
+- APIs REST
+- Aplicações Node.js
+- APIs com Express e Fastify
+- Projetos com TypeScript
+- Integração com bancos de dados
+
+### 🎮 Projetos e desafios
+- Aplicações desenvolvidas durante cursos e bootcamps
+- Projetos de lógica e programação
+- Experimentos com diferentes tecnologias
+
+### 📌 Alguns projetos
+
+🔹 Agenda Full Stack
+Aplicação de gerenciamento de contatos utilizando Node.js, Express, MongoDB e EJS, com autenticação e recursos de segurança. [Projeto Agenda](https://github.com/MilenaMP/Agenda)
+
+🔹 QR Code & Password Generator
+Gerador de QR Codes e senhas executado pelo terminal, desenvolvido com Node.js. [Projeto QRCode](https://github.com/MilenaMP/project-qrcode)
+
+🔹 Formula 1 API
+Minimal API desenvolvida com TypeScript e Fastify, utilizando dados em memória e endpoints REST. [Projeto Node](https://github.com/MilenaMP/node-formula1-api)
+
+🔹 Mario Kart Simulator
+Jogo baseado em terminal desenvolvido com Node.js, utilizando conceitos de lógica, funções, objetos e sistemas de batalha/corrida. [Projeto Mario Kart](https://github.com/MilenaMP/Projeto-mario-kart)
+
+🔹 Projetos Front-end
+Aplicações desenvolvidas com HTML, CSS, JavaScript, React e Vite.
+
 ---
 
-## 🌱 Objetivo
-Me desenvolver como **desenvolvedora full stack**, com foco em **JavaScript**, unindo **desenvolvimento web**, **automação** e **segurança**, criando soluções eficientes, seguras e bem estruturadas.
+## 🎯 Objetivo
+
+Meu objetivo é evoluir como desenvolvedora Full Stack, fortalecendo principalmente minhas habilidades em JavaScript, React, Node.js, APIs e bancos de dados.
+
+Ao mesmo tempo, busco construir uma base sólida em Cibersegurança e Automação, aplicando esses conhecimentos no desenvolvimento de soluções cada vez mais eficientes, seguras e bem estruturadas.
 
 ---
 
