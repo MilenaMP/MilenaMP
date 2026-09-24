@@ -15,11 +15,14 @@
 ---
 
 ## 📚 Atualmente estudando
+
 📌 JavaScript — aprofundamento da linguagem e boas práticas <br>
 📌 Node.js & Express — desenvolvimento de APIs e Back-end <br>
 📌 TypeScript — desenvolvimento de aplicações mais robustas <br>
+📌 Agentes de IA — aplicação de agentes no desenvolvimento de software <br>
 
 ---
+
 ## 📚 Formação e Cursos
 ### 🎓 Formação Acadêmica
 
@@ -46,6 +49,35 @@ Durante a formação, aprofundei conhecimentos relacionados ao desenvolvimento B
 - Bancos de dados
 - Desenvolvimento de aplicações Back-end
 - Boas práticas de desenvolvimento
+
+### 🤖 Inteligência Artificial & Agentes
+
+**Microsoft Foundry Agentic Engineer — DIO**
+
+✅ Aceleração concluída
+
+Durante a aceleração, aprofundei meus conhecimentos em **Agentes de Inteligência Artificial**, explorando conceitos e práticas relacionados ao desenvolvimento e integração de agentes no fluxo de desenvolvimento de software.
+
+Principais conhecimentos desenvolvidos:
+
+* 🤖 Criação e desenvolvimento de agentes com **Microsoft Foundry**
+* 💻 Desenvolvimento assistido por IA com **GitHub Copilot**
+* 🧠 Configuração de contexto e comportamento de agentes com **AGENTS.md, instructions e skills**
+* 🔄 Integração de agentes aos fluxos de **Pull Requests, Code Review e GitHub Actions**
+* ⚙️ Automação de tarefas e fluxos de desenvolvimento utilizando agentes de IA
+* 🛠️ Uso de agentes de IA como apoio ao desenvolvimento e manutenção de projetos
+  
+---
+
+### 🤖 IA & Desenvolvimento Assistido
+
+- Microsoft Foundry
+- GitHub Copilot
+- AI Agents
+- AGENTS.md
+- Agent Instructions
+- Agent Skills
+- GitHub Actions
 
 ---
 
