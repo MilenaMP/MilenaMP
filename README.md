@@ -35,7 +35,7 @@
 
 ### 🌐 Confira meu portfólio
 
-<a href="https://github.com/MilenaMP/portfolio"> <img src="https://img.shields.io/badge/🌐%20Visitar%20meu%20Portfólio-F59E0B?style=for-the-badge" /> </a>
+<a href="https://portfolio-sandy-eta-39.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20Visitar%20meu%20Portfólio-F59E0B?style=for-the-badge" /> </a>
 
 ### 🤖 AI Agents Lab
 
