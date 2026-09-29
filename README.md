@@ -16,136 +16,40 @@
 
 ## 📚 Atualmente estudando
 
-📌 JavaScript — aprofundamento da linguagem e boas práticas <br>
-📌 Node.js & Express — desenvolvimento de APIs e Back-end <br>
-📌 TypeScript — desenvolvimento de aplicações mais robustas <br>
-📌 Agentes de IA — aplicação de agentes no desenvolvimento de software <br>
-
----
-
-## 📚 Formação e Cursos
-### 🎓 Formação Acadêmica
-
-Ciência da Computação — Anhanguera
-
-### 💻 Desenvolvimento Web
-- JavaScript do Básico ao Avançado — Luiz Otávio Miranda | [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
-- Formação Node.js Fundamentals — Felipe Aguiar | [DIO](https://www.dio.me/curso-node-js) 
-- Formação Front-end — Alura
-
-### 🚀 Bootcamps
-
-Sem Parar Corpay — Back-end do Zero a Prática | DIO
-
-✅ Bootcamp concluído
-
-Durante a formação, aprofundei conhecimentos relacionados ao desenvolvimento Back-end, incluindo:
-
-- JavaScript
-- Node.js
-- APIs REST
-- Express
+- JavaScript e boas práticas
+- Node.js, Express e APIs REST
 - TypeScript
-- Bancos de dados
-- Desenvolvimento de aplicações Back-end
-- Boas práticas de desenvolvimento
+- Agentes de Inteligência Artificial
+- Cibersegurança
 
-### 🤖 Inteligência Artificial & Agentes
+## 🎓 Formação & Destaques
 
-**Microsoft Foundry Agentic Engineer — DIO**
+- 🎓 Ciência da Computação — Anhanguera
+- 🚀 Sem Parar Corpay — Back-end do Zero a Prática — DIO
+- 🤖 Microsoft Foundry Agentic Engineer — DIO
+- 💻 Formação Node.js Fundamentals — DIO
+- 🎨 Formação Front-end — Alura
+- 🛠️ Projetos
 
-✅ Aceleração concluída
+> Desenvolvo projetos para colocar meus conhecimentos em prática, explorando Front-end, Back-end, APIs, bancos de dados, segurança e agentes de IA.
 
-Durante a aceleração, aprofundei meus conhecimentos em **Agentes de Inteligência Artificial**, explorando conceitos e práticas relacionados ao desenvolvimento e integração de agentes no fluxo de desenvolvimento de software.
+### 🌐 Confira meu portfólio
 
-Principais conhecimentos desenvolvidos:
+<a href="https://github.com/MilenaMP/portfolio"> <img src="https://img.shields.io/badge/🌐%20Visitar%20meu%20Portfólio-F59E0B?style=for-the-badge" /> </a>
 
-* 🤖 Criação e desenvolvimento de agentes com **Microsoft Foundry**
-* 💻 Desenvolvimento assistido por IA com **GitHub Copilot**
-* 🧠 Configuração de contexto e comportamento de agentes com **AGENTS.md, instructions e skills**
-* 🔄 Integração de agentes aos fluxos de **Pull Requests, Code Review e GitHub Actions**
-* ⚙️ Automação de tarefas e fluxos de desenvolvimento utilizando agentes de IA
-* 🛠️ Uso de agentes de IA como apoio ao desenvolvimento e manutenção de projetos
-  
----
+### 🤖 AI Agents Lab
 
-### 🤖 IA & Desenvolvimento Assistido
+Um dos meus projetos de estudo voltado para Agentes de IA e desenvolvimento assistido por IA, explorando GitHub Copilot, testes, APIs e boas práticas de desenvolvimento.
 
-- Microsoft Foundry
-- GitHub Copilot
-- AI Agents
-- AGENTS.md
-- Agent Instructions
-- Agent Skills
-- GitHub Actions
+🔗 [Ver projeto no GitHub](https://github.com/MilenaMP/ai-agents-lab)
+
+### 🎯 Objetivo
+
+Evoluir como desenvolvedora Full Stack, construindo aplicações modernas e bem estruturadas e, ao mesmo tempo, aprofundando meus conhecimentos em IA, Cibersegurança e Automação.
 
 ---
 
-### 🔐 Cibersegurança
-- Estudos práticos pela plataforma **TryHackMe**
-- Conceitos de:
-  - Segurança da Informação
-  - Redes de Computadores
-  - Sistemas embarcados e IoT
-  - Noções de ataques, vulnerabilidades e defesa
-
----
-
-### ⚙️ Automação
-- **n8n** (Curso pela DIO)
-- Automação de fluxos
-- Integração entre sistemas e APIs
-- Introdução ao low-code / no-code
-
----
-
-## 🛠️ Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, incluindo:
-
-### 🌐 Projetos Front-end
-- Interfaces responsivas
-- Aplicações React
-- Projetos com HTML, CSS e JavaScript
-
-### ⚙️ Projetos Back-end
-- APIs REST
-- Aplicações Node.js
-- APIs com Express e Fastify
-- Projetos com TypeScript
-- Integração com bancos de dados
-
-### 🎮 Projetos e desafios
-- Aplicações desenvolvidas durante cursos e bootcamps
-- Projetos de lógica e programação
-- Experimentos com diferentes tecnologias
-
-### 📌 Alguns projetos
-
-🔹 Agenda Full Stack
-Aplicação de gerenciamento de contatos utilizando Node.js, Express, MongoDB e EJS, com autenticação e recursos de segurança. [Projeto Agenda](https://github.com/MilenaMP/Agenda)
-
-🔹 QR Code & Password Generator
-Gerador de QR Codes e senhas executado pelo terminal, desenvolvido com Node.js. [Projeto QRCode](https://github.com/MilenaMP/project-qrcode)
-
-🔹 Formula 1 API
-Minimal API desenvolvida com TypeScript e Fastify, utilizando dados em memória e endpoints REST. [Projeto Node](https://github.com/MilenaMP/node-formula1-api)
-
-🔹 Mario Kart Simulator
-Jogo baseado em terminal desenvolvido com Node.js, utilizando conceitos de lógica, funções, objetos e sistemas de batalha/corrida. [Projeto Mario Kart](https://github.com/MilenaMP/Projeto-mario-kart)
-
-🔹 Projetos Front-end
-Aplicações desenvolvidas com HTML, CSS, JavaScript, React e Vite.
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é evoluir como desenvolvedora Full Stack, fortalecendo principalmente minhas habilidades em JavaScript, React, Node.js, APIs e bancos de dados.
-
-Ao mesmo tempo, busco construir uma base sólida em Cibersegurança e Automação, aplicando esses conhecimentos no desenvolvimento de soluções cada vez mais eficientes, seguras e bem estruturadas.
-
----
+## 🤝 Vamos nos conectar?
 
 <div>
  <a href = "mailto:contatomilenapessoa.am@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
